@@ -1,1 +1,3 @@
 # E-commerce-analysis-excel
+This project is an e-commerce sales analysis tool that uses Microsoft Excel to analyze and visualize sales data. The tool allows users to input sales data and generate insightful reports and visualizations that can help businesses make informed decisions. With its easy-to-use interface and powerful analytical capabilities, this project is a valuable resource for anyone looking to gain a deeper understanding of e-commerce sales trends and patterns.
+![Screenshot (35)](https://github.com/20UPE059/E-commerce-analysis-excel/assets/94692429/a1fd3c9b-682a-4e5f-a943-f5a055f997bf)
